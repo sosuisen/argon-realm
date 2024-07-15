@@ -5,6 +5,7 @@ build/
 gradle/
 .classpath
 .project
+lib/
 
 # Created by this project
 memo.txt
